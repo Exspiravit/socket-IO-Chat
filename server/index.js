@@ -1,6 +1,6 @@
 #!/usr/bin/env nodejs
-"use strict";
+'use strict'
 
-require("@babel/polyfill");
-require("@babel/register");
-require("./server");
+require('@babel/polyfill')
+require('@babel/register')
+require('./server')
